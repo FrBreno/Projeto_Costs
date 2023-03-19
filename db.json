@@ -29,8 +29,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Contratar Dev JavaScrcipt",
+          "cost": "1000",
+          "description": "Criar função de envio de e-mails",
+          "id": "94b49e6b-8f68-4633-a5e9-cc03a975dd0c"
+        }
+      ],
       "id": 3
     }
   ],
