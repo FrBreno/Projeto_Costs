@@ -10,7 +10,7 @@ Costs é um pequeno projeto construído durante o [curso de ReactJs](https://you
 
 ### Mais informações
 
-Todo o [material]() e as [tecnologias]() utilizadas estão disponíveis neste documento. 
+Todo o [material](https://github.com/FrBreno/Projeto_Costs#03-materiais-e-ferramentas) e as [tecnologias](https://github.com/FrBreno/Projeto_Costs#02-tecnologias) utilizadas estão disponíveis neste documento. 
 
 &nbsp;
 
